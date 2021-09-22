@@ -1,5 +1,3 @@
-  ### Add me on Genshin @602342074
-  ### Please MiHoYo give me Hutao
 <img src="https://www.codewars.com/users/braykzmi/badges/large">
 
 <p align="center">
