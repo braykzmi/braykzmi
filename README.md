@@ -2,7 +2,7 @@
 ### Please MiHoYo give me Hutao
 
 <p align="center">
-  <img width="300" height="200" src="https://upload-os-bbs.hoyolab.com/upload/2021/07/23/46275262/efab9ffcf11a137e0d2980b9b778cf76_1876530580762177839.gif?x-oss-process=image/resize,s_740/quality,q_80/auto-orient,0/interlace,1/format,gif">
+  <img width="460" height="300" src="https://upload-os-bbs.hoyolab.com/upload/2021/07/23/46275262/efab9ffcf11a137e0d2980b9b778cf76_1876530580762177839.gif?x-oss-process=image/resize,s_740/quality,q_80/auto-orient,0/interlace,1/format,gif">
 </p>
 
 
