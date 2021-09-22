@@ -1,4 +1,13 @@
 <p align="center">
+  <b>Hutao is coming home</b><br>
+  <a href="https://www.hoyolab.com/accountCenter/postList?id=22872774">Hoyolab/a> |
+  <a href="https://steamcommunity.com/id/phantzn/">Steam</a> |
+  <a href="https://www.reddit.com/user/Braykzmi">Reddit</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
+
+<p align="center">
   <img src="https://www.codewars.com/users/braykzmi/badges/large">
 </p>
 <p align="center">
