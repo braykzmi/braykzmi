@@ -1,4 +1,6 @@
-### Hi there 👋
+### Add me on Genshin @602342074
+### Please MiHoYo give me Hutao
+![Genshin Beach](https://upload-os-bbs.hoyolab.com/upload/2021/07/23/46275262/efab9ffcf11a137e0d2980b9b778cf76_1876530580762177839.gif?x-oss-process=image/resize,s_740/quality,q_80/auto-orient,0/interlace,1/format,gif)
 
 <!--
 **braykzmi/braykzmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
