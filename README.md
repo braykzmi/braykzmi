@@ -1,5 +1,5 @@
 <p align="center">
-  <font size = "12">
+  <font size = "32">
   <b>Hutao is coming home</b><br>
   <a href="https://www.hoyolab.com/accountCenter/postList?id=22872774">Hoyolab</a> |
   <a href="https://steamcommunity.com/id/phantzn/">Steam</a> |
