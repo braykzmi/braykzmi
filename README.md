@@ -1,9 +1,11 @@
 <p align="center">
+  <font size = "12">
   <b>Hutao is coming home</b><br>
   <a href="https://www.hoyolab.com/accountCenter/postList?id=22872774">Hoyolab</a> |
   <a href="https://steamcommunity.com/id/phantzn/">Steam</a> |
   <a href="https://www.reddit.com/user/Braykzmi">Reddit</a>
   <br><br>
+  </font>  
 </p>
 
 <p align="center">
