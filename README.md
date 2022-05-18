@@ -1,26 +1,9 @@
-<p align="center">
-  <font size = "32">
-  <b>USACO Platinum Division 1000/1000</b><br>
-  <a href="https://www.linkedin.com/in/brayden-mi-2a00a9224/">Linkedin</a> |
-  <a href="https://steamcommunity.com/id/phantzn/">Steam</a> |
-  <a href="https://www.reddit.com/user/Braykzmi">Reddit</a>
-  <br><br>
-  </font>  
-</p>
-<p align="center">
-</p>
+### Hi there 👋
 
-<!--
-**braykzmi/braykzmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Brayden, a Student from the St. John's School Houston TX.
 
-Here are some ideas to get you started:
+##### BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at **Ameriduo LLC**, teaching competitive programming
+- ⚙️ I use daily: `.java`, `.py`, `.css`
+- 🌱 Learning all about **Artificial Intelligence**
