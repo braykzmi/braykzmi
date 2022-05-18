@@ -1,7 +1,7 @@
 <p align="center">
   <font size = "32">
   <b>USACO Platinum Division 1000/1000</b><br>
-  <a href="https://www.hoyolab.com/accountCenter/postList?id=22872774">Hoyolab</a> |
+  <a href="https://www.linkedin.com/in/brayden-mi-2a00a9224/">Linkedin</a> |
   <a href="https://steamcommunity.com/id/phantzn/">Steam</a> |
   <a href="https://www.reddit.com/user/Braykzmi">Reddit</a>
   <br><br>
