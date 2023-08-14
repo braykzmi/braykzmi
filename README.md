@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Brayden, a Student from the St. John's School Houston TX.
+#### I'm Brayden, a Freshman studying Mathematics at New York University.
 
 ##### BIO
 
