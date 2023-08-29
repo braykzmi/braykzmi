@@ -4,6 +4,6 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Ameriduo LLC**, teaching competitive programming
+- 🏢 I'm currently developing an AI Desktop Voice Assistant using OpenAI and Elevenlabs API
 - ⚙️ I use daily: `.java`, `.py`, `.css`
 - 🌱 Learning all about **Artificial Intelligence**
