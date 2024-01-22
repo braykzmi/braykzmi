@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-#### I'm Brayden, a Freshman studying Mathematics at New York University.
+#### I'm Brayden, a Freshman studying Mathematics and Computer Science at New York University.
 
 ##### BIO
 
-- 🏢 I'm currently developing an AI Desktop Voice Assistant using OpenAI and Elevenlabs API
+- 🏢 I'm currently developing an University Marketplace App
 - ⚙️ I use daily: `.java`, `.py`, `.css`
-- 🌱 Learning all about **Artificial Intelligence**
+- 🌱 Learning all about **Reinforcement Learning**
