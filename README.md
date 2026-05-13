@@ -1,32 +1,51 @@
-# Brayden Mi
+# Brayden K. Mi
 
-## 👋 Welcome to My GitHub Profile
+Mathematics + Computer Science at NYU, focused on **quant research, trading systems, and statistical modeling**.
 
-I'm Brayden Mi, a sophomore undergraduate student with a passion for computer science, machine learning, and financial modeling. My academic journey has been focused on understanding the intricacies of algorithms, data structures, and neural networks, and I'm constantly looking for new challenges to grow my skills. 
+I build research tools that turn noisy market data into testable signals: volatility surfaces, Monte Carlo engines, low-latency data pipelines, and model diagnostics that keep the math honest.
 
-### 💻 Projects
-- **Long Short Term Memory Stock Price Prediction:**
-  - Developed an LSTM model for stock price prediction.
-  - Achieved an ROI of 120% over 6 months in preliminary backtesting on stable stocks.
-  - Integrated advanced techniques to improve performance on volatile stocks.
+🌐 **[braykzmi.com](https://braykzmi.com)** · 🧪 **[Quant Lab](https://braykzmi.com/lab)** · 💼 **[LinkedIn](https://www.linkedin.com/in/braykzmi)** · 📄 **[Resume](https://braykzmi.com/resume.pdf)**
 
-- **MIST with clDice Implementation:**
-  - Implemented the clDice loss function for tubular structure segmentation.
-  - Based on research by Suprosanna Shit, this project was a key part of my internship.
+---
 
-- **Simulation Models:**
-  - Built multiple simulation models as part of my coursework and independent projects.
-  - These projects provided deep insights into complex systems and algorithms.
- 
-  ### 🌱 Current Focus
-- **Portfolio Management:**
-  - Continuously working on improving my financial modeling and quantitative analysis skills.
-  - Optimizing my LSTM model to conduct forward testing
+## 🔬 What I work on
 
-- **Mentorship:**
-  - Actively seeking guidance from industry-experienced professors to bridge the gap between academia and practical applications.
- 
-  ### 📫 Let's Connect
-- [**LinkedIn**](https://www.linkedin.com/in/braykzmi)
-- **brayden.mi@nyu.edu**
+- **Options & volatility** — pricing in commodity markets, volatility surface dynamics, forward curve analysis
+- **Risk** — scenario analysis, delta-gamma and full revaluation VaR under stressed conditions
+- **Research infrastructure** — Python/SQL pipelines for macro and options data, calibration routines, low-latency feeds
+- **Applied ML** — LSTM signal generation, seasonal forecasting, medical imaging segmentation
 
+## 💼 Experience
+
+- **Quantitative Trading & Research Intern** — Pan Capital Management *(May 2025 – Jan 2026)*
+- **TA / Tutor, Data Structures** — Courant Institute, NYU
+- **Data Science & ML Intern** — MD Anderson Cancer Center
+- **Quantitative Research Assistant** — Applied Math Lab, NYU
+
+## 🛠 Selected projects
+
+| Project | Focus | Stack |
+|---|---|---|
+| [Monte Carlo Portfolio Simulator](https://github.com/braykzmi/monte_carlo_portfolio) | Correlated GBM with Student-t heavy tails, Bloomberg-enabled | Python, FastAPI, React, Docker |
+| AI-Driven Equity Trading System | LSTM price prediction with real-time feeds and automated execution | Python, ML |
+| Solar Power Generation Forecasting | Seasonal ANN + sinusoidal regression, outperforms SARIMAX | Python, ML |
+| Medical Imaging Segmentation Toolkit | Custom losses for clinical imaging on GPU clusters | PyTorch |
+| Automated Biliary Segmentation for PTBD | Dilated biliary duct segmentation for patient selection | Deep learning |
+| Reverse-Time Migration for USCT Imaging | Wave-equation imaging adapted to ultrasound tomography | Numerical methods |
+
+## 🎓 Education
+
+**New York University** — B.A. Mathematics & Computer Science, Minor in Music · GPA 3.9 · *2023 – Dec 2026 (expected)*
+
+Coursework: Stochastic Calculus, Probability, Mathematical Statistics, Algorithms, ML, AI, Predictive Analytics
+Awards: Dean's Honors List · USACO Platinum · Point72 Cubist Hackathon
+
+## 🧰 Toolbox
+
+`Python` `C++` `SQL` `FastAPI` `PyTorch` `Options pricing` `Time series` `Monte Carlo` `Statistics`
+
+## 📫 Contact
+
+Best fit: **quant research, systematic trading, market data engineering, and applied ML where statistical discipline matters.**
+
+📧 [bkm9592@nyu.edu](mailto:bkm9592@nyu.edu)
